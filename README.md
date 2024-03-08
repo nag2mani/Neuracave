@@ -1,5 +1,5 @@
 # Neuracave
-This Website is developed by Nagmani Kumar from Scrach.
+This Website was developed by Nagmani Kumar from Scrach.
 
 
 ## Versions
