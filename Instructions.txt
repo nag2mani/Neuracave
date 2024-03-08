@@ -1,0 +1,12 @@
+1. Font related:
+
+<!-- This is the "font-family: 'Playfair Display', serif;" fonts we will use -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+
+2. Source code will managed in the manner like verson control system(1.0.0).
+
+
+3. Take the refrence of any website.
